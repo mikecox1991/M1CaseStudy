@@ -68,4 +68,17 @@ Farming would need GPS, vision systems, portable power systems such as gas and s
 * Why are these technologies appropriate for your solution?
 Most of the work is ran into lanes, tasks like spraying the field or harvesting. Using GPS monitoring and path sets controlled by ranchhands or farmers themselves. Vision systems to detect ripe fruit, and picking operations. Mobile power systems would be the hardest using gas and solar.  
 
+
+Work Cited:
+
+Profit margins and growth:
+https://pitchbook.com/profiles/company/437872-78#overview
+
+Information about the company:
+
+Wevolver
+https://www.youtube.com/watch?v=aqEALSXxSaE
+
+Machina Labs Official Site
+https://machinalabs.ai/resources?tag=all&sort=recent
  
